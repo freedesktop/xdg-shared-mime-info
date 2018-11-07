@@ -302,6 +302,8 @@ bibtex.bib text/x-bibtex
 simple-obj-c.m text/x-objcsrc
 # Copied from LLVM project test suite
 test.cl text/x-opencl-src ox
+# hand-made
+test.mc2 text/vnd.senx.warpscript
 
 # http://www.apps.ietf.org/rfc/rfc4716.html#sec-3.6
 ssh-public-key.txt text/plain

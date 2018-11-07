@@ -5763,6 +5763,11 @@ command to generate the output files.
     <_comment>WMLScript program</_comment>
     <glob pattern="*.wmls"/>
   </mime-type>
+  <mime-type type="text/vnd.senx.warpscript">
+    <_comment>WarpScript source code</_comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern="*.mc2"/>
+  </mime-type>  
   <mime-type type="application/x-ace">
     <_comment>ACE archive</_comment>
     <generic-icon name="package-x-generic"/>
