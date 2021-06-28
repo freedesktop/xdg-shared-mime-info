@@ -5702,6 +5702,15 @@ command to generate the output files.
     <glob pattern="*.igs"/>
     <glob pattern="*.iges"/>
   </mime-type>
+  <mime-type type="model/gltf-binary">
+    <comment>glTF model</comment>
+    <acronym>glTF</acronym>
+    <expanded-acronym>GL Transmission Format</expanded-acronym>
+    <magic>
+      <match type="string" value="glTF" offset="0"/>
+    </magic>
+    <glob pattern="*.glb"/>
+  </mime-type>
   <mime-type type="model/vrml">
     <comment>VRML document</comment>
     <acronym>VRML</acronym>

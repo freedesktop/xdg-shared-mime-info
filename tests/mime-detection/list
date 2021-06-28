@@ -661,6 +661,8 @@ PWAD.WAD application/x-doom-wad
 # Models
 cube.igs model/iges
 cube.wrl model/vrml
+# Copied from https://github.com/KhronosGroup/glTF-Sample-Models/blob/master/2.0/BoxInterleaved/glTF-Binary/BoxInterleaved.glb
+test.glb model/gltf-binary
 
 # other
 text.pdf application/pdf
