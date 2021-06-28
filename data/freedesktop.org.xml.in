@@ -5711,6 +5711,13 @@ command to generate the output files.
     </magic>
     <glob pattern="*.glb"/>
   </mime-type>
+  <mime-type type="model/gltf+json">
+    <comment>glTF model</comment>
+    <acronym>glTF</acronym>
+    <expanded-acronym>GL Transmission Format</expanded-acronym>
+    <sub-class-of type="application/json"/>
+    <glob pattern="*.gltf"/>
+  </mime-type>
   <mime-type type="model/vrml">
     <comment>VRML document</comment>
     <acronym>VRML</acronym>
