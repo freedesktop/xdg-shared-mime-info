@@ -567,6 +567,8 @@ simon.669 audio/x-mod
 4jsno.669 audio/x-mod
 # https://gitlab.freedesktop.org/xdg/shared-mime-info/-/issues/144
 false-positive-669 text/plain x
+# Copied from http://modarchive.org/index.php?request=view_by_moduleid&query=177387 (public domain)
+stranger_-_run.mod audio/x-mod
 # Copied from https://github.com/inAudible-NG/audible-samples
 test.aa audio/x-pn-audibleaudio
 test.aax audio/vnd.audible.aax

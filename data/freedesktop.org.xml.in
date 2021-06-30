@@ -4449,6 +4449,8 @@ command to generate the output files.
         </match>
       </match>
       <match type="string" value="MAS_UTrack_V00" offset="0"/>
+      <match type="string" value="M.K." offset="1080"/>
+      <match type="string" value="M!K!" offset="1080"/>
     </magic>
     <glob pattern="*.mod"/>
     <glob pattern="*.ult"/>
