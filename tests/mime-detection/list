@@ -748,7 +748,8 @@ LiberationSans-Regular.woff font/woff
 nrl.trig application/trig oxo
 # Copied from http://git.savannah.gnu.org/cgit/gnash.git/plain/testsuite/samples/subshapes.swf
 subshapes.swf application/vnd.adobe.flash.movie
-
+# Extracted from http://archive.debian.org/debian/pool/main/g/grub2/grub-efi_1.96+20080724-16_i386.deb
+pci.mod application/x-object x
 # PIE executable https://gitlab.freedesktop.org/xdg/shared-mime-info/-/issues/11
 ls application/x-executable x
 

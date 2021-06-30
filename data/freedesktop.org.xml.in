@@ -3229,6 +3229,7 @@ command to generate the output files.
       </match>
     </magic>
     <glob pattern="*.o"/>
+    <glob pattern="*.mod" weight="40"/>
   </mime-type>
   <mime-type type="application/annodex">
     <comment>Annodex exchange format</comment>
